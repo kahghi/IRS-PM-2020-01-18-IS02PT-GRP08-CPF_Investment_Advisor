@@ -52,7 +52,7 @@ In this project, our group has proposed a solution, named CPF Investment Advisor
 
 
 ---
-## SECTION 7 : Appendices
+## SECTION 7 : Miscellaneous
 
 `Refer to Github Folder: Miscellaneous`
 
