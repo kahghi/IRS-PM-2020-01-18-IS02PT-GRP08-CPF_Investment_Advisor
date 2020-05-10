@@ -4,7 +4,7 @@
 
 ## SECTION 1 : PROJECT TITLE
 ## Central Provident Fund Investment Advisor
-[![CPF Investment Scheme](https://dollarsandsense.sg/wp-content/uploads/2019/09/cpfis-beginner-guide-header.png)]
+![CPF Investment Scheme](https://dollarsandsense.sg/wp-content/uploads/2019/09/cpfis-beginner-guide-header.png)
 
 ---
 
