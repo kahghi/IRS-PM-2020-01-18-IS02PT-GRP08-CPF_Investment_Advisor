@@ -1,0 +1,90 @@
+/export default MasterForm;
+// const Form = () => {
+//   const { register, handleSubmit } = useForm();
+//   const onSubmit = data => {
+//     alert(JSON.stringify(data));
+//   };
+//   const intialValues = {
+//     firstName: "ng",
+//     lastName: "yan bo",
+//     email: ""
+//   };
+
+//   return (
+//     <form onSubmit={handleSubmit(onSubmit)}>
+//       <h1>Portfolio Optimiser</h1>
+//       <h2>
+//         Investing is an effective way to put your money to work and build
+//         wealth. Kickstart your investment planning with us! Just fill up a short
+//         questionaire below
+//       </h2>
+//       <label htmlFor="firstName">First Name</label>
+//       <input
+//         defaultValue={intialValues.firstName}
+//         name="firstName"
+//         placeholder="bill"
+//         ref={register}
+//       />
+
+//       <label htmlFor="lastName">Last Name</label>
+//       <input
+//         defaultValue={intialValues.lastName}
+//         name="lastName"
+//         placeholder="luo"
+//         ref={register}
+//       />
+
+//       <label htmlFor="email">Email</label>
+//       <input
+//         defaultValue={intialValues.email}
+//         name="email"
+//         placeholder="please enter your personal email"
+//         type="email"
+//         ref={register}
+//       />
+
+//       {/* <label>Is developer?</label>
+//       <input name="isDeveloper" type="checkbox" ref={register} /> */}
+
+//       <label>
+//         I plan to begin withdrawing my money from my investments in:
+//       </label>
+//       <select ref={register} name="withdrawalTime">
+//         <option value="0">Less than 3 years</option>
+//         <option value="1">3 - 5 years</option>
+//         <option value="2">6 - 10 years</option>
+//         <option value="3">11 years</option>
+//       </select>
+
+//       <label>
+//         Once I begin withdrawing my funds, I plan to spend all of the funds in
+//       </label>
+//       <select ref={register} name="withdrawalTime">
+//         <option value="0">Less than 3 years</option>
+//         <option value="1">3 - 5 years</option>
+//         <option value="2">6 - 10 years</option>
+//         <option value="3">11 years</option>
+//       </select>
+
+//       <label>I would describe my knowledge of investments as:</label>
+//       <Radiochecklist></Radiochecklist>
+
+//       <label>When I invest my money, I am:</label>
+//       <Radiochecklist></Radiochecklist>
+
+//       <label>Select the investments you currently own</label>
+//       <Radiochecklist></Radiochecklist>
+
+//       <label>
+//         Consider this scenario: Imagine that in the past three months, the
+//         overall stock market lost 25% of its value. An individual stock
+//         investment you own also lost 25% of its value. What would you do?
+//       </label>
+//       <Radiochecklist></Radiochecklist>
+
+//       <input type="submit" />
+//     </form>
+//   );
+// };
+
+// export default Form;

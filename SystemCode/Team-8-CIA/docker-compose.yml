@@ -1,0 +1,49 @@
+version: '3.3'
+
+services:
+  postgres:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: "NUS"
+      POSTGRES_PASSWORD: "NUSMTECH"
+      POSTGRES_DB: "TEAM"
+      # POSTGRES_HOST_AUTH_METHOD: "trust"
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./database/init.sql:/docker-entrypoint-initdb.d/init.sql
+
+
+# services:
+#   flask-backend:
+#     build: ./flaskapp/flask
+#     container_name: flask
+#     restart: always
+#     environment:
+#       - APP_NAME=CIA_Flask
+#     volumes: 
+#       - ./backend:/usr/src/app
+#     ports:
+#       - 8080
+
+#   nginx:
+#     build: ./flaskapp/nginx
+#     container_name: nginx
+#     restart: always
+
+#   # db:
+#   #   environment:
+#   #     POSTGRES_USER: test
+#   #     POSTGRES_PASSWORD: test
+#   #     POSTGRES_DB: test
+#   #   image: postgres:latest
+#   #   networks:
+#   #     - default
+#   #   ports:
+#   #     - 5405:5432
+#   #   restart: always
+#   #   volumes:
+#   #     - ./postgres-data:/var/lib/postgresql/data
+#       # volumes:
+#       # - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+  
