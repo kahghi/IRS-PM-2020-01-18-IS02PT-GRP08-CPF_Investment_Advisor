@@ -41,7 +41,7 @@ In this project, our group has proposed a solution, named CPF Investment Advisor
 
 `Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
-* to input link to document
+https://drive.google.com/file/d/1xuSj5LM0hSCaGnc6Fs73_AaYrBlQ6ipv/view?usp=sharing
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
