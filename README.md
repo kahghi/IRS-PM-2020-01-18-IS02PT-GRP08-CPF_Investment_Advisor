@@ -39,9 +39,9 @@ In this project, our group has proposed a solution, named CPF Investment Advisor
 
 ## SECTION 5 : USER GUIDE
 
-`Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
+`Refer to Installation and User Guide at Github Folder: ProjectReport`
 
-https://drive.google.com/file/d/1xuSj5LM0hSCaGnc6Fs73_AaYrBlQ6ipv/view?usp=sharing
+https://github.com/kahghi/IRS-PM-2020-01-18-IS02PT-GRP08-CPF_Investment_Advisor/blob/master/ProjectReport/Installation%20and%20User%20Guide_REV01.pdf
 
 ---
 ## SECTION 6 : PROJECT REPORT / PAPER
