@@ -25,7 +25,7 @@ In this project, our group has proposed a solution, named CPF Investment Advisor
 | :------------ |:---------------:| :-----| :-----|
 | Lim Kah Ghi | A0100172A | Rules, Decision Tree, User Form Modelling, Final Submission Report, Video Preparation | e0508022@u.nus.edu |
 | Ng Yan Bo | A0186871N | User Form Modelling, Flask/Python integration, Docker | A1234567B@gmail.com |
-| Nirav Janak Parikh | A1234567C | Subject Matter Expert, Genetic Algorithm, Final Submission Report, Video | A1234567C@outlook.com |
+| Nirav Janak Parikh | A0213573J | Subject Matter Expert, Genetic Algorithm, Final Submission Report, Video | e0508674@u.nus.edu |
 
 
 ---
