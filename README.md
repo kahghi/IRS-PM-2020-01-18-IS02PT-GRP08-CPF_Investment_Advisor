@@ -39,16 +39,6 @@ In this project, our group has proposed a solution, named CPF Investment Advisor
 
 ## SECTION 5 : USER GUIDE
 
-Please note that this system only runs for MacOS and Windows, Ubuntu and CentOS are currently not supported
-
-git clone the file into your repository
-For those that do not have git, just download the git
-
-Open up Terminal for MacOS users, for non-macOS users, you can use visual studio code for terminal 
-
-You will need NodeJS and Python on your computer to start up the program
-We recommend using Visual Studio Code for this practice
-
 `Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport`
 
 * to input link to document
@@ -58,11 +48,11 @@ We recommend using Visual Studio Code for this practice
 
 `Refer to project report at Github Folder: ProjectReport`
 
-* to input link to document
+https://github.com/kahghi/IRS-PM-2020-01-18-IS02PT-GRP08-CPF_Investment_Advisor/blob/master/ProjectReport/ISS-IRS-Group%208_Project%20Report%20REV04.pdf
 
 
 ---
-## SECTION 7 : Miscellaneous
+## SECTION 7 : Appendices
 
 `Refer to Github Folder: Miscellaneous`
 
